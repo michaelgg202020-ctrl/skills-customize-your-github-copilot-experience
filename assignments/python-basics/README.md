@@ -21,6 +21,7 @@ Completed program should:
 - Example output:
   `Hello, Alice! You are 25 years old and your favorite color is blue.`
 
+
 ### 🛠️ Basic Arithmetic
 
 #### Description
@@ -35,6 +36,7 @@ Completed program should:
   Enter the first number: 3
   Enter the second number: 7
   10
+
 
 ### 🛠️ Conditional Statements
 
@@ -51,4 +53,3 @@ Completed program should:
   print(is_even(4))  # True
   print(is_even(5))  # False
   ```
-
