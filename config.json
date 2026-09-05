@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "command-line-todo-list",
+      "title": "Command-Line To-Do List",
+      "description": "Build a beginner-friendly Python task manager using lists, dictionaries, loops, functions, and input validation.",
+      "path": "assignments/command-line-todo-list",
+      "dueDate": "2026-09-12"
     }
   ]
 }
